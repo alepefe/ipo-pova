@@ -31,11 +31,7 @@ function App() {
   const [confirmDeleteModal, setConfirmDeleteModal] = useState({ isOpen: false, taskId: null });
   const [searchText, setSearchText] = useState("");
   const [filteredTasks, setFilteredTasks] = useState(initialTasks);
-
-  useEffect(() => {
-    document.title = "Dashboard de Tareas";
-  }, []);
-
+  
   useEffect(() => {
     if (searchText.trim() === "") {
       setFilteredTasks(tasks);
