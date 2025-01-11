@@ -136,7 +136,7 @@ function App() {
   return (
     <div className="bg-gray-100 min-h-screen p-8">
       <header className="flex justify-between items-center">
-        <h1 className="text-3xl font-bold">Dashboard de Tareas</h1>
+        <h1 className="text-3xl font-bold">Lista de Tareas</h1>
         <button 
           onClick={openModal} 
           className="bg-blue-500 text-white px-4 py-2 rounded shadow hover:bg-blue-600"
