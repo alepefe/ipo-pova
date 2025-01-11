@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ipo-pova/static/css/main.5c8ad5be.css",
-    "main.js": "/ipo-pova/static/js/main.a0db3ddb.js",
+    "main.js": "/ipo-pova/static/js/main.e0587843.js",
     "static/js/722.c07c7599.chunk.js": "/ipo-pova/static/js/722.c07c7599.chunk.js",
     "index.html": "/ipo-pova/index.html",
     "main.5c8ad5be.css.map": "/ipo-pova/static/css/main.5c8ad5be.css.map",
-    "main.a0db3ddb.js.map": "/ipo-pova/static/js/main.a0db3ddb.js.map",
+    "main.e0587843.js.map": "/ipo-pova/static/js/main.e0587843.js.map",
     "722.c07c7599.chunk.js.map": "/ipo-pova/static/js/722.c07c7599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c8ad5be.css",
-    "static/js/main.a0db3ddb.js"
+    "static/js/main.e0587843.js"
   ]
 }
